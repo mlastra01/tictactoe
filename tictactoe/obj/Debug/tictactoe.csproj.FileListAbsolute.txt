@@ -1,0 +1,15 @@
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\MainWindow.g.cs
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\App.g.cs
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\tictactoe_MarkupCompile.cache
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\tictactoe_MarkupCompile.lref
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\MainWindow.baml
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\tictactoe.g.resources
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Matias\Desktop\Proyectos Git\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
