@@ -5,8 +5,47 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:tictactoe"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        ResizeMode="NoResize"
+        Title="Tic Tac Toe" Height="500" Width="500">
+
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Black" />
+            <Setter Property="BorderThickness" Value="0.5" />
+            <Setter Property="BorderBrush" Value="White" />
+            <Setter Property="FontSize" Value="100"/>
+            <Setter Property="FontFamily" Value="Aharoni"/>
+            <Setter Property="FontWeight" Value="DemiBold" />
+            <Setter Property="Foreground" Value="White" />
+        </Style>
         
+        
+    </Window.Resources>
+    
+    <Grid x:Name="Container">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Button x:Name="Button0x0"  Grid.Column="0" Grid.Row="0" Content="X" />
+        <Button x:Name="Button1x0"  Grid.Column="1" Grid.Row="0" Content="O" />
+        <Button x:Name="Button2x0"  Grid.Column="2" Grid.Row="0" Content="" />
+
+        <Button x:Name="Button0x1"  Grid.Column="0" Grid.Row="1" Content="" />
+        <Button x:Name="Button1x1"  Grid.Column="1" Grid.Row="1" Content="" />
+        <Button x:Name="Button2x1"  Grid.Column="2" Grid.Row="1" Content="" />
+
+        <Button x:Name="Button0x2"  Grid.Column="0" Grid.Row="2" Content="" />
+        <Button x:Name="Button1x2"  Grid.Column="1" Grid.Row="2" Content="" />
+        <Button x:Name="Button2x2"  Grid.Column="2" Grid.Row="2" Content="" />
+
     </Grid>
 </Window>
